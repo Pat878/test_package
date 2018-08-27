@@ -6,7 +6,6 @@
     "repository": "https://github.com/pat878/test_package",
     "author": "Pat",
     "license": "MIT",
-    "private": true,
     "dependencies": {
       "anchor-js": "^4.1.1",
       "bootstrap": "4.0.0",
